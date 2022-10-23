@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nishimirwe Adrien
-- 👀 I’m interested software development
+- 👀 I’m interested in software development
 - 🌱 Software Developer
 - 💞️ front end:Html,JavaScript,react js
 - 📫 Back-end:Node js,java,php
