@@ -9,7 +9,7 @@ I'm a self-taught passionate FullStack developer from Rwanda RW
 
 ![Nishadrien's public GitHub stats](https://github-readme-stats.vercel.app/api?username=Nishadrien&show_icons=true&theme=blue-green)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishadrien&theme=blue-green&layout=compact)
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nishadrien&show_icons=true&theme=blue-green)
 
 <br />
 <br />
