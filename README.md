@@ -34,5 +34,7 @@ I'm a self-taught passionate FullStack developer from Rwanda RW
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=R&logoColor=white)
+![Julia](https://img.shields.io/badge/Julia-%235A0.svg?style=for-the-badge&logo=julia&logoColor=white)
+
 
 
